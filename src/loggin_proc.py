@@ -8,9 +8,9 @@ import time
 _FUTMONDO_ADDRESS = "https://www.futmondo.com/"
 
 def execute():
-    loggin_page()
+    tranfer_list_scrapping()
 
-def loggin_page():
+def tranfer_list_scrapping():
     options = webdriver.ChromeOptions()
     options.add_argument("start-maximized")
     options.add_argument('disable-infobars')
