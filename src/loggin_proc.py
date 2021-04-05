@@ -21,7 +21,7 @@ def tranfer_list_scrapping():
         driver = webdriver.Chrome("../tools/bin/gc84/chromedriver.exe", options=options)
     except:
         driver = webdriver.Chrome("../tools/bin/chromedriver.exe", options=options)
-
+    # driver.get("file:///Users/inigo/Sandbox/fut_est/data/transfers_history.html")
     driver.get(r"C:\Users\jjsan\Documents\Git Futmondo\fut_est\data\transfers_history.html")
     # check transfer history list is visible
     elem_transfer_history = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pressReleases"]')))
