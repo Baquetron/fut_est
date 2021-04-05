@@ -15,7 +15,6 @@ def parse_json(filepath):
         dictionary = json.load(f)
         return dictionary
 
-
 def loggin_page():
     d_userdata = parse_json(_JSON_FILE)
     options = webdriver.ChromeOptions()
@@ -41,27 +40,8 @@ def loggin_page():
     WebDriverWait(driver,20).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="loginbutton"]'))).click()
     time.sleep(10)
 
-def tranfer_list_scrapping():
-    options = webdriver.ChromeOptions()
-    options.add_argument("start-maximized")
-    options.add_argument('disable-infobars')
-    try:
-        driver = webdriver.Chrome("../tools/bin/gc84/chromedriver.exe", options=options)
-    except:
-        driver = webdriver.Chrome("../tools/bin/chromedriver", options=options)
-
-    driver.get(_LOCAL_TRANSFER_LIST)
-    # check transfer history list is visible
-    elem_transfer_history = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pressReleases"]')))
-    # get all elems from list
-    l_transfer_history = driver.find_elements_by_css_selector("#pressReleases > ul > li > ul")
- 
-    for i, row in enumerate(l_transfer_history):
-        line = str(row.text)
-        print(line)
-
 def execute():
-    tranfer_list_scrapping()
+    loggin_page()
 
 if __name__ == "__main__":
     loggin_page()
