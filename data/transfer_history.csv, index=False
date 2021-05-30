@@ -1,0 +1,606 @@
+,Transfer Time,Player,Transfer amount,Seller,Buyer
+1,21/05/2021 - 06:38,Coke,2.241.373 €,futmondo,Jon Arrieta
+2,20/05/2021 - 07:11,Mickaël Malsa,5.273.093 €,Javier Urrestarazu García,futmondo
+3,20/05/2021 - 07:11,Albiol,11.810.735 €,Javier Urrestarazu García,futmondo
+4,20/05/2021 - 07:06,Roberto Torres,10.220.270 €,Jon Arrieta,futmondo
+5,20/05/2021 - 07:00,Berenguer,30.890.997 €,Jon Arrieta,futmondo
+6,20/05/2021 - 06:37,Modric,63.333.333 €,futmondo,Jon Arrieta
+7,20/05/2021 - 06:37,Kevin Vázquez,2.309.009 €,futmondo,Iñigo Baquedano
+8,20/05/2021 - 06:37,Suso Fernández,35.700.001 €,futmondo,Javier Urrestarazu García
+9,19/05/2021 - 07:17,Vavro,1.521.191 €,Jon Arrieta,futmondo
+10,18/05/2021 - 06:36,Racic,3.100.000 €,futmondo,Tito Floren
+11,18/05/2021 - 06:36,Maxi Gómez,25.555.555 €,futmondo,Jon Arrieta
+12,17/05/2021 - 07:41,Acuña,24.036.160 €,Jon Arrieta,futmondo
+13,17/05/2021 - 06:35,Dani Calvo,3.409.009 €,futmondo,Iñigo Baquedano
+14,16/05/2021 - 22:06,Gazzaniga,1.216.365 €,Juanjo,futmondo
+15,16/05/2021 - 17:24,Óscar Duarte,1.800.000 €,Juanjo,jose_00014
+16,16/05/2021 - 06:36,Solari,2.258.655 €,futmondo,Juanjo
+17,16/05/2021 - 06:36,Edu Expósito,6.001.000 €,futmondo,Jon Arrieta
+18,16/05/2021 - 06:36,Felipe,4.182.888 €,futmondo,Juanjo
+19,15/05/2021 - 11:05,Kroos,48.567.405 €,Jon Arrieta,futmondo
+20,14/05/2021 - 06:36,Kroos,60.638.888 €,futmondo,Jon Arrieta
+21,14/05/2021 - 00:19,Víctor Díaz,1.041.442 €,Iñigo Baquedano,futmondo
+22,13/05/2021 - 06:35,Mikel Rico,7.176.586 €,futmondo,ANDEReibar
+23,12/05/2021 - 23:01,Lemar,17.048.504 €,Jorge Solitario,futmondo
+24,12/05/2021 - 23:01,Pablo Ínsua,1.008.790 €,Jorge Solitario,futmondo
+25,12/05/2021 - 06:35,Enes Ünal,2.666.666 €,futmondo,Jon Arrieta
+26,12/05/2021 - 06:35,Mosquera,7.300.000 €,futmondo,Jorge Solitario
+27,11/05/2021 - 15:00,Óscar Duarte,2.000.000 €,jose_00014,Juanjo
+28,11/05/2021 - 13:05,Dani Calvo,2.167.025 €,Iñigo Baquedano,futmondo
+29,11/05/2021 - 13:04,Rubén Sobrino,2.618.639 €,Iñigo Baquedano,futmondo
+30,11/05/2021 - 13:04,David García,18.144.888 €,Iñigo Baquedano,futmondo
+31,11/05/2021 - 08:47,Kodro,1.012.109 €,Tito Floren,futmondo
+32,11/05/2021 - 07:10,Pulido,2.856.704 €,Iñigo Baquedano,futmondo
+33,11/05/2021 - 07:10,José Mari,3.167.627 €,Iñigo Baquedano,futmondo
+34,11/05/2021 - 06:36,Maffeo,15.709.009 €,futmondo,Iñigo Baquedano
+35,11/05/2021 - 06:36,Militao,22.109.009 €,futmondo,Iñigo Baquedano
+36,11/05/2021 - 06:36,Helibelton Palacios,1.325.000 €,futmondo,jose_00014
+37,10/05/2021 - 15:45,Isco,1.272.301 €,Tito Floren,futmondo
+38,09/05/2021 - 21:29,Mingueza,21.984.594 €,Juanjo,futmondo
+39,09/05/2021 - 08:11,Mosquera,5.988.742 €,ANDEReibar,futmondo
+40,09/05/2021 - 08:11,Soldado,3.680.907 €,ANDEReibar,futmondo
+41,09/05/2021 - 08:10,Pacheco,10.065.478 €,ANDEReibar,futmondo
+42,09/05/2021 - 08:10,Salvi,8.205.636 €,ANDEReibar,futmondo
+43,09/05/2021 - 06:35,Roberto Torres,13.333.333 €,futmondo,Jon Arrieta
+44,09/05/2021 - 06:35,Kike García,37.500.000 €,futmondo,ANDEReibar
+45,08/05/2021 - 23:52,Rubén García,37.366.548 €,Jon Arrieta,futmondo
+46,08/05/2021 - 22:44,Josema,1.212.292 €,Juanjo,futmondo
+47,08/05/2021 - 08:04,Chukwueze,10.503.989 €,Jon Arrieta,futmondo
+48,08/05/2021 - 06:34,Brasanac,2.397.549 €,futmondo,Juanjo
+49,07/05/2021 - 07:11,Marcos André,1.024.454 €,Juanjo,futmondo
+50,07/05/2021 - 07:10,Blanco,1.044.285 €,Juanjo,futmondo
+51,07/05/2021 - 06:37,Brais Méndez,26.209.009 €,futmondo,Iñigo Baquedano
+52,07/05/2021 - 06:37,Martín,1.300.000 €,futmondo,Jorge Solitario
+53,06/05/2021 - 06:37,Jaime Mata,7.309.009 €,futmondo,Iñigo Baquedano
+54,06/05/2021 - 06:37,Víctor Díaz,1.809.009 €,futmondo,Iñigo Baquedano
+55,06/05/2021 - 06:37,Sancet,1.658.585 €,futmondo,Juanjo
+56,05/05/2021 - 06:37,Jorge Molina,3.000.001 €,futmondo,Tito Floren
+57,05/05/2021 - 06:37,Kondogbia,1.500.000 €,futmondo,Jon Arrieta
+58,04/05/2021 - 23:10,Kenedy,12.261.850 €,jose_00014,futmondo
+59,04/05/2021 - 22:50,Dani Gómez,1.024.252 €,Juanjo,futmondo
+60,04/05/2021 - 10:12,Jairo,1.024.121 €,Tito Floren,futmondo
+61,04/05/2021 - 08:22,Renato Tapia,22.617.298 €,Juanjo,futmondo
+62,04/05/2021 - 07:18,Pedri,62.074.531 €,Iñigo Baquedano,futmondo
+63,04/05/2021 - 06:36,Carrasco,43.715.280 €,futmondo,jose_00014
+64,04/05/2021 - 06:36,Ivi Alejo,1.300.000 €,futmondo,Tito Floren
+65,03/05/2021 - 21:36,Juanmi,1.065.071 €,jose_00014,futmondo
+66,03/05/2021 - 21:36,Okazaki,1.025.133 €,jose_00014,futmondo
+67,03/05/2021 - 06:36,Pau Torres,34.218.154 €,futmondo,Juanjo
+68,02/05/2021 - 06:35,L. Suárez,26.709.009 €,futmondo,Iñigo Baquedano
+69,01/05/2021 - 10:00,Foyth,1.653.827 €,Iñigo Baquedano,futmondo
+70,01/05/2021 - 06:35,Gazzaniga,1.685.585 €,futmondo,Juanjo
+71,30/04/2021 - 17:18,Carlos Fernández,1.157.786 €,Jon Arrieta,futmondo
+72,30/04/2021 - 17:18,Rochina,3.090.097 €,Jon Arrieta,futmondo
+73,30/04/2021 - 08:02,Aitor Fernández,3.871.503 €,Tito Floren,futmondo
+74,30/04/2021 - 08:01,Carvajal,22.160.421 €,Jon Arrieta,futmondo
+75,30/04/2021 - 06:38,Rubén García,36.667.493 €,futmondo,Jon Arrieta
+76,30/04/2021 - 06:38,Blanco,1.000.000 €,futmondo,Juanjo
+77,30/04/2021 - 06:38,Josema,1.075.652 €,futmondo,Juanjo
+78,30/04/2021 - 00:27,Jaime Seoane,10.207.669 €,Iñigo Baquedano,futmondo
+79,30/04/2021 - 00:27,Roger Martí,27.200.000 €,Iñigo Baquedano,Tito Floren
+80,28/04/2021 - 08:09,Unai Simón,7.000.000 €,Juanjo,Tito Floren
+81,28/04/2021 - 06:36,Laguardia,5.850.000 €,futmondo,MIKEL POZO
+82,27/04/2021 - 19:03,Bartra,1.235.347 €,Jorge Solitario,futmondo
+83,27/04/2021 - 13:16,Asensio,27.815.214 €,Tito Floren,futmondo
+84,27/04/2021 - 06:36,Melero,12.209.009 €,futmondo,Iñigo Baquedano
+85,26/04/2021 - 22:51,Álex Fdez,21.824.312 €,Juanjo,futmondo
+86,26/04/2021 - 07:52,Cheryshev,1.262.025 €,Jon Arrieta,futmondo
+87,26/04/2021 - 06:36,Trigueros,23.500.000 €,futmondo,Jorge Solitario
+88,26/04/2021 - 06:36,Iván Villar,2.174.878 €,futmondo,Juanjo
+89,25/04/2021 - 06:35,Jairo,1.400.000 €,futmondo,Tito Floren
+90,25/04/2021 - 06:35,Unai Núñez,1.800.000 €,futmondo,Tito Floren
+91,25/04/2021 - 06:35,Pablo Ínsua,2.500.000 €,futmondo,Jorge Solitario
+92,25/04/2021 - 06:35,Joan Jordan,25.684.877 €,futmondo,Juanjo
+93,25/04/2021 - 06:35,Darwin Machís,28.609.009 €,futmondo,Iñigo Baquedano
+94,24/04/2021 - 08:55,Álex Moreno,11.744.723 €,Javier Urrestarazu García,futmondo
+95,24/04/2021 - 07:15,Mario Hermoso,21.008.504 €,MIKEL POZO,futmondo
+96,24/04/2021 - 06:40,Wass,22.600.000 €,futmondo,MIKEL POZO
+97,24/04/2021 - 06:40,Mickaël Malsa,15.000.001 €,futmondo,Javier Urrestarazu García
+98,23/04/2021 - 09:38,Ivi Alejo,1.067.012 €,Tito Floren,futmondo
+99,23/04/2021 - 08:43,Weissman,4.169.363 €,Jorge Solitario,futmondo
+100,23/04/2021 - 07:00,Helibelton Palacios,1.051.838 €,Juanjo,futmondo
+101,23/04/2021 - 06:39,Oliveira,2.600.000 €,futmondo,Tito Floren
+102,22/04/2021 - 22:04,Edgar Badía,21.931.593 €,jose_00014,futmondo
+103,22/04/2021 - 06:38,Sergio Herrera,6.658.019 €,futmondo,jose_00014
+104,21/04/2021 - 07:38,Joaquín Fernández,2.519.804 €,Iñigo Baquedano,futmondo
+105,21/04/2021 - 06:38,Foyth,4.509.009 €,futmondo,Iñigo Baquedano
+106,20/04/2021 - 22:52,Fede Valverde,17.212.512 €,Jorge Solitario,futmondo
+107,20/04/2021 - 10:12,Bruno González,1.065.494 €,Tito Floren,futmondo
+108,20/04/2021 - 10:12,Nacho Martínez,1.059.241 €,Tito Floren,futmondo
+109,20/04/2021 - 06:37,Mandi,11.200.000 €,futmondo,Jorge Solitario
+110,18/04/2021 - 13:22,Villalibre,1.690.748 €,Tito Floren,futmondo
+111,18/04/2021 - 13:08,Torreira,1.044.767 €,Tito Floren,futmondo
+112,18/04/2021 - 06:36,Asensio,27.600.000 €,futmondo,Tito Floren
+113,18/04/2021 - 03:43,Sergio Herrera,5.056.717 €,Iñigo Baquedano,futmondo
+114,17/04/2021 - 06:36,Dani Gómez,2.155.258 €,futmondo,Juanjo
+115,16/04/2021 - 15:07,Joel,1.053.943 €,Jon Arrieta,futmondo
+116,16/04/2021 - 06:36,Álex Moreno,12.096.861 €,futmondo,Javier Urrestarazu García
+117,16/04/2021 - 06:36,Sergi Roberto,6.682.000 €,futmondo,MIKEL POZO
+118,15/04/2021 - 15:15,Carrillo,1.923.502 €,Juanjo,futmondo
+119,15/04/2021 - 10:31,Bacca,3.705.107 €,Javier Urrestarazu García,futmondo
+120,15/04/2021 - 07:43,Edu Expósito,5.449.350 €,ANDEReibar,futmondo
+121,15/04/2021 - 06:36,Gorosabel,22.500.000 €,futmondo,ANDEReibar
+122,15/04/2021 - 01:22,Alejandro Pozo,2.960.093 €,Iñigo Baquedano,futmondo
+123,15/04/2021 - 01:20,Joan Jordan,25.928.421 €,Iñigo Baquedano,futmondo
+124,14/04/2021 - 22:05,Dani Escriche,3.273.402 €,Tito Floren,futmondo
+125,14/04/2021 - 16:15,Domingos Duarte,9.051.167 €,Jorge Solitario,futmondo
+126,14/04/2021 - 06:36,Olaza,13.500.000 €,futmondo,Tito Floren
+127,14/04/2021 - 06:36,Nolito,31.111.111 €,futmondo,Jorge Solitario
+128,14/04/2021 - 06:36,Fede Valverde,16.500.000 €,futmondo,Jorge Solitario
+129,14/04/2021 - 06:36,Tete Morente,5.810.000 €,futmondo,Jorge Solitario
+130,14/04/2021 - 00:18,Dest,23.860.465 €,Iñigo Baquedano,futmondo
+131,13/04/2021 - 06:35,Aitor Ruibal,5.109.009 €,futmondo,Iñigo Baquedano
+132,13/04/2021 - 06:35,Carvajal,22.555.555 €,futmondo,Jon Arrieta
+133,12/04/2021 - 23:45,Mandi,10.646.279 €,Juanjo,futmondo
+134,12/04/2021 - 07:59,Lucas Vázquez,30.839.003 €,Tito Floren,futmondo
+135,12/04/2021 - 06:35,Pacheco,10.200.000 €,futmondo,ANDEReibar
+136,11/04/2021 - 18:46,Diop,1.837.208 €,Javier Urrestarazu García,futmondo
+137,11/04/2021 - 06:34,David Soria,5.609.009 €,futmondo,Iñigo Baquedano
+138,11/04/2021 - 06:34,Pedri,56.609.009 €,futmondo,Iñigo Baquedano
+139,10/04/2021 - 06:34,Gabriel Paulista,13.352.855 €,futmondo,Juanjo
+140,09/04/2021 - 07:17,Remiro,10.189.423 €,Jon Arrieta,futmondo
+141,09/04/2021 - 06:58,Gayá,32.650.212 €,Iñigo Baquedano,futmondo
+142,09/04/2021 - 06:37,Rochina,5.800.001 €,futmondo,Jon Arrieta
+143,09/04/2021 - 06:37,Kodro,1.100.000 €,futmondo,Tito Floren
+144,09/04/2021 - 06:37,Ivi Alejo,1.400.001 €,futmondo,Tito Floren
+145,09/04/2021 - 06:37,Jonsson,5.700.000 €,futmondo,Juanjo
+146,08/04/2021 - 14:05,Manu Sánchez,1.011.005 €,Tito Floren,futmondo
+147,08/04/2021 - 06:36,Isco,1.500.000 €,futmondo,Tito Floren
+148,08/04/2021 - 06:36,Cheryshev,1.222.222 €,futmondo,Jon Arrieta
+149,07/04/2021 - 08:03,Perea,6.300.431 €,Jon Arrieta,futmondo
+150,07/04/2021 - 07:02,Maffeo,19.096.557 €,Juanjo,futmondo
+151,07/04/2021 - 06:35,Vavro,1.333.333 €,futmondo,Jon Arrieta
+152,07/04/2021 - 06:35,Nacho Martínez,1.200.000 €,futmondo,Tito Floren
+153,07/04/2021 - 06:35,Mingueza,20.754.845 €,futmondo,Juanjo
+154,06/04/2021 - 23:05,Isak,61.000.104 €,Jorge Solitario,futmondo
+155,06/04/2021 - 20:55,Bartra,1.750.000 €,Tito Floren,Jorge Solitario
+156,06/04/2021 - 06:35,Lemar,22.000.000 €,futmondo,Jorge Solitario
+157,06/04/2021 - 06:35,Joel,1.379.655 €,futmondo,Jon Arrieta
+158,06/04/2021 - 00:14,Cillessen,3.760.187 €,Iñigo Baquedano,futmondo
+159,05/04/2021 - 09:46,Quina,2.051.179 €,Juanjo,futmondo
+160,05/04/2021 - 08:39,Kang-in Lee,2.023.386 €,Jon Arrieta,futmondo
+161,05/04/2021 - 08:39,Juan Miranda,1.971.116 €,Jon Arrieta,futmondo
+162,05/04/2021 - 07:03,Maxi Gómez,22.885.453 €,ANDEReibar,futmondo
+163,05/04/2021 - 06:34,Joan Jordan,24.809.009 €,futmondo,Iñigo Baquedano
+164,05/04/2021 - 02:06,Kubo,14.734.800 €,Iñigo Baquedano,futmondo
+165,03/04/2021 - 09:17,Mikel Rico,11.975.758 €,Jorge Solitario,futmondo
+166,03/04/2021 - 06:34,Dest,23.409.009 €,futmondo,Iñigo Baquedano
+167,02/04/2021 - 18:32,Bartra,1.250.000 €,Jorge Solitario,Tito Floren
+168,02/04/2021 - 18:28,Budimir,10.021.482 €,Tito Floren,futmondo
+169,02/04/2021 - 18:27,Marcos Llorente,59.894.824 €,Tito Floren,futmondo
+170,02/04/2021 - 11:03,Gabriel Paulista,13.979.194 €,Iñigo Baquedano,futmondo
+171,02/04/2021 - 11:03,David Silva,46.229.944 €,Iñigo Baquedano,futmondo
+172,02/04/2021 - 10:54,Ocampos,64.344.146 €,Juanjo,futmondo
+173,01/04/2021 - 23:07,Foyth,2.692.816 €,Jorge Solitario,futmondo
+174,01/04/2021 - 07:35,Marcone,3.300.000 €,futmondo,Tito Floren
+175,01/04/2021 - 02:45,Yuri,19.887.029 €,Iñigo Baquedano,futmondo
+176,31/03/2021 - 18:08,Quique González,991.357 €,ANDEReibar,futmondo
+177,31/03/2021 - 07:47,Sergio Ramos,52.516.450 €,Jon Arrieta,futmondo
+178,31/03/2021 - 07:35,Yoshinori Muto,1.000.000 €,futmondo,ANDEReibar
+179,31/03/2021 - 03:38,Jony,2.242.716 €,Iñigo Baquedano,futmondo
+180,31/03/2021 - 03:37,Oblak,47.303.381 €,Iñigo Baquedano,futmondo
+181,31/03/2021 - 00:18,Sergio León,982.452 €,ANDEReibar,futmondo
+182,30/03/2021 - 07:34,Perea,6.666.666 €,futmondo,Jon Arrieta
+183,30/03/2021 - 07:34,Joaquín Fernández,6.209.009 €,futmondo,Iñigo Baquedano
+184,29/03/2021 - 07:40,Gorosabel,24.378.576 €,Jon Arrieta,futmondo
+185,28/03/2021 - 06:37,Giménez,16.777.777 €,futmondo,Jon Arrieta
+186,27/03/2021 - 23:08,Tete Morente,4.287.793 €,Jorge Solitario,futmondo
+187,27/03/2021 - 08:34,Aleix García,1.065.456 €,ANDEReibar,futmondo
+188,27/03/2021 - 06:37,Salvi,10.100.000 €,futmondo,ANDEReibar
+189,27/03/2021 - 06:37,Pulido,2.509.009 €,futmondo,Iñigo Baquedano
+190,27/03/2021 - 06:37,Kubo,14.409.009 €,futmondo,Iñigo Baquedano
+191,26/03/2021 - 14:35,Orellana,21.918.309 €,Tito Floren,futmondo
+192,26/03/2021 - 06:42,Javi Galán,30.110.753 €,Juanjo,futmondo
+193,26/03/2021 - 06:36,Bacca,4.715.501 €,futmondo,Javier Urrestarazu García
+194,25/03/2021 - 06:36,Yoel,1.000.001 €,futmondo,ANDEReibar
+195,25/03/2021 - 06:36,Claudio Bravo,2.555.555 €,futmondo,Jon Arrieta
+196,25/03/2021 - 06:36,Pere Milla,2.126.126 €,futmondo,Javier Urrestarazu García
+197,25/03/2021 - 06:36,Álex Fdez,26.558.855 €,futmondo,Juanjo
+198,25/03/2021 - 06:36,Bartra,1.000.001 €,futmondo,Jorge Solitario
+199,25/03/2021 - 06:36,Gayá,31.209.009 €,futmondo,Iñigo Baquedano
+200,25/03/2021 - 06:36,Denis Suárez,21.500.011 €,futmondo,Tito Floren
+201,24/03/2021 - 15:37,Marcone,2.592.019 €,Juanjo,futmondo
+202,24/03/2021 - 15:33,Calleri,4.888.920 €,Juanjo,futmondo
+203,24/03/2021 - 07:38,Unai López,1.281.112 €,Jon Arrieta,futmondo
+204,24/03/2021 - 07:19,Unai Núñez,1.066.562 €,MIKEL POZO,futmondo
+205,24/03/2021 - 06:35,Sergio Ramos,49.711.111 €,futmondo,Jon Arrieta
+206,24/03/2021 - 06:35,Rakitic,4.100.000 €,futmondo,MIKEL POZO
+207,24/03/2021 - 06:35,Juanmi,1.510.666 €,futmondo,jose_00014
+208,23/03/2021 - 06:52,Aitor Ruibal,2.601.747 €,Juanjo,futmondo
+209,23/03/2021 - 06:51,Aihen Muñoz,1.559.769 €,Juanjo,futmondo
+210,23/03/2021 - 06:35,Ocampos,62.695.565 €,futmondo,Juanjo
+211,23/03/2021 - 06:35,Helibelton Palacios,1.658.858 €,futmondo,Juanjo
+212,23/03/2021 - 06:35,Guedes,15.685.556 €,futmondo,Juanjo
+213,22/03/2021 - 21:19,Balenziaga,1.175.584 €,MIKEL POZO,futmondo
+214,22/03/2021 - 09:42,Rochina,5.697.443 €,Tito Floren,futmondo
+215,22/03/2021 - 06:35,Jony,3.509.009 €,futmondo,Iñigo Baquedano
+216,22/03/2021 - 06:35,Gabriel Paulista,12.709.009 €,futmondo,Iñigo Baquedano
+217,22/03/2021 - 06:35,Marcos Llorente,75.000.011 €,futmondo,Tito Floren
+218,22/03/2021 - 06:35,Oblak,42.809.009 €,futmondo,Iñigo Baquedano
+219,22/03/2021 - 06:35,Ilaix Moriba,1.195.000 €,futmondo,jose_00014
+220,21/03/2021 - 20:35,Postigo,1.065.952 €,ANDEReibar,futmondo
+221,21/03/2021 - 06:34,Quina,2.485.721 €,futmondo,Juanjo
+222,21/03/2021 - 06:34,Yuri,17.709.009 €,futmondo,Iñigo Baquedano
+223,20/03/2021 - 21:33,Blanco,1.248.333 €,ANDEReibar,futmondo
+224,20/03/2021 - 16:21,Joel,2.203.879 €,Jon Arrieta,futmondo
+225,20/03/2021 - 16:21,Capoue,6.642.878 €,Jon Arrieta,futmondo
+226,20/03/2021 - 15:58,Jorge Molina,1.562.673 €,Jorge Solitario,futmondo
+227,20/03/2021 - 06:34,Acuña,12.666.666 €,futmondo,Jon Arrieta
+228,20/03/2021 - 06:34,Rafa Mir,31.234.567 €,futmondo,Jorge Solitario
+229,19/03/2021 - 08:06,William Carvalho,1.027.072 €,Iñigo Baquedano,futmondo
+230,19/03/2021 - 06:36,Cillessen,3.400.000 €,futmondo,Iñigo Baquedano
+231,18/03/2021 - 06:36,Gonalons,2.500.000 €,futmondo,Jorge Solitario
+232,17/03/2021 - 14:32,Iñigo Pérez,1.066.302 €,Juanjo,futmondo
+233,17/03/2021 - 06:36,Villalibre,1.250.001 €,futmondo,Tito Floren
+234,17/03/2021 - 06:36,Unai Núñez,1.155.000 €,futmondo,MIKEL POZO
+235,16/03/2021 - 15:20,Munir,3.172.894 €,MIKEL POZO,futmondo
+236,16/03/2021 - 06:35,Aitor Ruibal,2.784.548 €,futmondo,Juanjo
+237,16/03/2021 - 06:35,Balenziaga,1.100.000 €,futmondo,MIKEL POZO
+238,15/03/2021 - 08:02,Yuri,18.643.246 €,Jorge Solitario,futmondo
+239,15/03/2021 - 07:07,Solari,3.339.007 €,Juanjo,futmondo
+240,15/03/2021 - 06:35,Manu García,1.430.737 €,MIKEL POZO,futmondo
+241,14/03/2021 - 06:34,Raúl Guti,5.250.000 €,futmondo,MIKEL POZO
+242,14/03/2021 - 06:34,Aridane,16.412.085 €,futmondo,jose_00014
+243,13/03/2021 - 06:34,Dani Calvo,2.109.009 €,futmondo,Iñigo Baquedano
+244,13/03/2021 - 06:34,Aihen Muñoz,1.578.454 €,futmondo,Juanjo
+245,12/03/2021 - 14:27,Josan,13.779.246 €,Jorge Solitario,futmondo
+246,12/03/2021 - 14:27,Oier,2.563.709 €,Jorge Solitario,futmondo
+247,12/03/2021 - 08:25,Hugo Duro,981.426 €,Jorge Solitario,futmondo
+248,12/03/2021 - 07:01,Óliver Torres,3.798.414 €,Iñigo Baquedano,futmondo
+249,12/03/2021 - 06:59,Dest,19.632.853 €,Iñigo Baquedano,futmondo
+250,12/03/2021 - 06:59,Raúl García,22.436.540 €,Iñigo Baquedano,futmondo
+251,12/03/2021 - 06:36,Iñigo Pérez,1.000.000 €,futmondo,Juanjo
+252,12/03/2021 - 06:36,David Silva,49.119.009 €,futmondo,Iñigo Baquedano
+253,12/03/2021 - 06:36,Emerson,26.500.000 €,futmondo,Jorge Solitario
+254,11/03/2021 - 08:21,Dani García,1.046.117 €,MIKEL POZO,futmondo
+255,10/03/2021 - 21:17,Sergio León,2.000.005 €,jose_00014,ANDEReibar
+256,10/03/2021 - 17:41,Chukwueze,5.000.000 €,Jorge Solitario,Jon Arrieta
+257,10/03/2021 - 16:57,Racic,3.385.863 €,Tito Floren,futmondo
+258,10/03/2021 - 15:19,Mario Gaspar,3.078.598 €,futmondo,jose_00014
+259,09/03/2021 - 08:32,Jaime Mata,10.853.950 €,Tito Floren,futmondo
+260,09/03/2021 - 06:48,Yeray,11.324.426 €,MIKEL POZO,futmondo
+261,09/03/2021 - 06:48,Trincao,2.461.802 €,MIKEL POZO,futmondo
+262,09/03/2021 - 06:48,Yoshinori Muto,1.037.314 €,MIKEL POZO,futmondo
+263,09/03/2021 - 06:48,Manu Vallejo,2.129.459 €,MIKEL POZO,futmondo
+264,09/03/2021 - 06:46,Deyverson,1.026.074 €,MIKEL POZO,futmondo
+265,09/03/2021 - 06:46,Timor,1.020.193 €,MIKEL POZO,futmondo
+266,09/03/2021 - 06:36,Guardiola,4.697.152 €,futmondo,jose_00014
+267,09/03/2021 - 01:57,Idrissa Doumbia,2.509.257 €,Iñigo Baquedano,futmondo
+268,08/03/2021 - 08:51,Víctor Díaz,1.183.251 €,Jorge Solitario,futmondo
+269,07/03/2021 - 07:21,Mojica,3.432.103 €,Javier Urrestarazu García,futmondo
+270,07/03/2021 - 06:34,Budimir,15.500.000 €,futmondo,Tito Floren
+271,07/03/2021 - 06:34,Nacho,9.333.333 €,futmondo,Javier Urrestarazu García
+272,06/03/2021 - 23:22,Tello,8.947.087 €,Javier Urrestarazu García,futmondo
+273,06/03/2021 - 09:27,Rubén Peña,4.727.538 €,jose_00014,futmondo
+274,06/03/2021 - 06:34,Marcone,2.468.518 €,futmondo,Juanjo
+275,06/03/2021 - 06:34,Arambarri,23.850.000 €,futmondo,MIKEL POZO
+276,06/03/2021 - 06:34,Antonio Puertas,5.123.123 €,futmondo,Javier Urrestarazu García
+277,05/03/2021 - 16:04,Sergio León,2.000.000 €,ANDEReibar,jose_00014
+278,05/03/2021 - 09:39,Vesga,1.963.659 €,Iñigo Baquedano,futmondo
+279,05/03/2021 - 09:39,Guardiola,2.414.694 €,Iñigo Baquedano,futmondo
+280,05/03/2021 - 07:52,Asensio,24.869.190 €,Jon Arrieta,futmondo
+281,05/03/2021 - 06:50,Coke,800.000 €,Javier Urrestarazu García,futmondo
+282,05/03/2021 - 06:50,Giménez,14.939.772 €,Javier Urrestarazu García,futmondo
+283,05/03/2021 - 06:36,Berenguer,23.333.333 €,futmondo,Jon Arrieta
+284,05/03/2021 - 06:36,Mathías Olivera,4.409.009 €,futmondo,Iñigo Baquedano
+285,05/03/2021 - 06:36,Mosquera,6.600.000 €,futmondo,ANDEReibar
+286,04/03/2021 - 20:44,Rekik,1.228.483 €,Jorge Solitario,futmondo
+287,04/03/2021 - 18:54,Kondogbia,1.405.865 €,Jon Arrieta,futmondo
+288,04/03/2021 - 07:03,Gonalons,963.716 €,Iñigo Baquedano,futmondo
+289,04/03/2021 - 07:03,Ledesma,7.742.120 €,Iñigo Baquedano,futmondo
+290,04/03/2021 - 06:36,Lucas Vázquez,28.300.001 €,futmondo,Tito Floren
+291,04/03/2021 - 06:36,Chukwueze,4.100.000 €,futmondo,Jorge Solitario
+292,03/03/2021 - 23:19,Víctor Rodríguez,1.064.285 €,Juanjo,futmondo
+293,03/03/2021 - 10:11,Papu Gómez,57.936.223 €,Tito Floren,futmondo
+294,03/03/2021 - 07:29,Lekue,1.045.871 €,Jorge Solitario,futmondo
+295,03/03/2021 - 06:36,Djené,22.540.001 €,futmondo,Javier Urrestarazu García
+296,03/03/2021 - 06:36,Jaime Mata,12.500.001 €,futmondo,Tito Floren
+297,03/03/2021 - 06:36,Rochina,5.000.001 €,futmondo,Tito Floren
+298,03/03/2021 - 06:36,Dest,19.609.009 €,futmondo,Iñigo Baquedano
+299,03/03/2021 - 06:36,Víctor Díaz,1.065.000 €,futmondo,Jorge Solitario
+300,03/03/2021 - 00:06,Íñigo Martínez,10.480.050 €,Iñigo Baquedano,futmondo
+301,02/03/2021 - 19:46,Aitor Ruibal,3.188.638 €,Juanjo,futmondo
+302,02/03/2021 - 09:08,Bigas,2.699.808 €,Javier Urrestarazu García,futmondo
+303,02/03/2021 - 08:56,Álex Moreno,8.881.205 €,Tito Floren,futmondo
+304,02/03/2021 - 07:06,Pau Torres,37.591.571 €,Javier Urrestarazu García,futmondo
+305,02/03/2021 - 06:52,Unai Vencedor,1.162.655 €,MIKEL POZO,futmondo
+306,02/03/2021 - 06:52,Masip,2.175.170 €,MIKEL POZO,futmondo
+307,02/03/2021 - 06:36,Coke,3.222.222 €,futmondo,Javier Urrestarazu García
+308,02/03/2021 - 06:36,Piqué,27.512.312 €,futmondo,Javier Urrestarazu García
+309,02/03/2021 - 06:36,Nacho Vidal,5.512.312 €,futmondo,Javier Urrestarazu García
+310,02/03/2021 - 06:36,Rui Silva,16.850.000 €,futmondo,MIKEL POZO
+311,02/03/2021 - 06:36,Dani Escriche,2.000.001 €,futmondo,Tito Floren
+312,02/03/2021 - 06:36,Orellana,22.000.000 €,futmondo,Tito Floren
+313,02/03/2021 - 06:36,Weissman,3.100.009 €,futmondo,Jorge Solitario
+314,01/03/2021 - 08:10,Saponjic,1.035.340 €,Jorge Solitario,futmondo
+315,01/03/2021 - 07:13,Pacheco,12.497.839 €,ANDEReibar,futmondo
+316,01/03/2021 - 07:08,Rigoni,3.318.171 €,Jon Arrieta,futmondo
+317,01/03/2021 - 06:35,Idrissa Doumbia,3.109.009 €,futmondo,Iñigo Baquedano
+318,01/03/2021 - 06:35,Edgar Méndez,2.600.001 €,futmondo,Jorge Solitario
+319,01/03/2021 - 06:35,Gorosabel,22.800.000 €,futmondo,Jon Arrieta
+320,01/03/2021 - 06:35,Ferreiro,20.000.015 €,futmondo,Juanjo
+321,01/03/2021 - 06:35,Marcos André,1.600.000 €,futmondo,Juanjo
+322,01/03/2021 - 06:35,Quique González,1.000.000 €,futmondo,ANDEReibar
+323,28/02/2021 - 07:24,Tachi,1.050.968 €,Jon Arrieta,futmondo
+324,28/02/2021 - 06:34,William Carvalho,1.100.009 €,futmondo,Iñigo Baquedano
+325,28/02/2021 - 06:34,Vesga,1.709.009 €,futmondo,Iñigo Baquedano
+326,27/02/2021 - 15:42,Suso Fernández,37.022.249 €,MIKEL POZO,futmondo
+327,27/02/2021 - 06:34,Illarramendi,15.555.555 €,futmondo,Jorge Solitario
+328,27/02/2021 - 06:34,Dmitrovic,26.100.000 €,futmondo,ANDEReibar
+329,27/02/2021 - 06:34,Rekik,1.550.000 €,futmondo,Jorge Solitario
+330,27/02/2021 - 06:34,Fernando Reges,24.850.000 €,futmondo,MIKEL POZO
+331,26/02/2021 - 23:30,Aritz,13.697.912 €,Juanjo,futmondo
+332,26/02/2021 - 10:19,Zubimendi,1.017.892 €,Tito Floren,futmondo
+333,26/02/2021 - 10:18,Vesga,1.621.609 €,Tito Floren,futmondo
+334,26/02/2021 - 10:18,Jason,1.018.701 €,Tito Floren,futmondo
+335,26/02/2021 - 10:17,Jordi Alba,41.524.759 €,Tito Floren,futmondo
+336,26/02/2021 - 07:01,Neva,4.997.654 €,Iñigo Baquedano,futmondo
+337,26/02/2021 - 06:42,Rubén Duarte,3.547.848 €,MIKEL POZO,futmondo
+338,26/02/2021 - 06:42,Yangel Herrera,14.604.859 €,MIKEL POZO,futmondo
+339,26/02/2021 - 06:37,Guido Rodríguez,18.250.000 €,futmondo,MIKEL POZO
+340,26/02/2021 - 06:37,Rubén Sobrino,1.509.009 €,futmondo,Iñigo Baquedano
+341,25/02/2021 - 23:51,Cala,6.590.729 €,Jorge Solitario,futmondo
+342,25/02/2021 - 09:56,Unai Núñez,1.109.184 €,Javier Urrestarazu García,futmondo
+343,25/02/2021 - 06:36,Unai Vencedor,2.000.001 €,futmondo,MIKEL POZO
+344,25/02/2021 - 06:36,Mojica,6.800.001 €,futmondo,Javier Urrestarazu García
+345,25/02/2021 - 06:36,Edgar Badía,22.068.245 €,futmondo,jose_00014
+346,24/02/2021 - 06:49,Morales,59.541.680 €,MIKEL POZO,futmondo
+347,24/02/2021 - 00:05,Unai Vencedor,1.726.981 €,Iñigo Baquedano,futmondo
+348,23/02/2021 - 10:18,Riqui Puig,1.235.886 €,Jorge Solitario,futmondo
+349,23/02/2021 - 06:36,Hugo Duro,1.100.111 €,futmondo,Jorge Solitario
+350,23/02/2021 - 06:36,Manu García,1.000.100 €,futmondo,MIKEL POZO
+351,23/02/2021 - 06:36,Foyth,1.206.000 €,futmondo,Jorge Solitario
+352,23/02/2021 - 06:36,Bardhi,6.920.430 €,futmondo,jose_00014
+353,23/02/2021 - 06:33,Mingueza,7.756.758 €,MIKEL POZO,futmondo
+354,22/02/2021 - 22:54,Kubo,17.299.100 €,jose_00014,futmondo
+355,22/02/2021 - 22:49,Jaume,11.639.837 €,jose_00014,futmondo
+356,22/02/2021 - 18:59,Germán,8.132.423 €,jose_00014,futmondo
+357,22/02/2021 - 18:34,Umtiti,2.378.141 €,Jon Arrieta,futmondo
+358,22/02/2021 - 06:43,Perea,8.387.427 €,Juanjo,futmondo
+359,22/02/2021 - 06:36,Lekue,1.000.001 €,futmondo,Jorge Solitario
+360,22/02/2021 - 06:36,Kondogbia,3.333.333 €,futmondo,Jon Arrieta
+361,22/02/2021 - 06:36,José Mari,2.409.009 €,futmondo,Iñigo Baquedano
+362,22/02/2021 - 06:36,Jorge Molina,1.584.000 €,futmondo,Jorge Solitario
+363,22/02/2021 - 06:36,Negredo,30.800.000 €,futmondo,MIKEL POZO
+364,21/02/2021 - 22:27,Oliveira,8.384.546 €,Jorge Solitario,futmondo
+365,21/02/2021 - 22:00,Radoja,2.903.943 €,Iñigo Baquedano,futmondo
+366,21/02/2021 - 19:56,Lainez,2.728.985 €,Jorge Solitario,futmondo
+367,21/02/2021 - 08:38,Guedes,14.620.124 €,Jon Arrieta,futmondo
+368,21/02/2021 - 06:35,Maxi Gómez,27.000.088 €,futmondo,ANDEReibar
+369,21/02/2021 - 06:35,Suso Fernández,38.750.000 €,futmondo,MIKEL POZO
+370,21/02/2021 - 06:35,Kang-in Lee,2.777.777 €,futmondo,Jon Arrieta
+371,21/02/2021 - 06:35,Tachi,1.111.111 €,futmondo,Jon Arrieta
+372,20/02/2021 - 22:24,Cucho,14.045.140 €,Juanjo,futmondo
+373,20/02/2021 - 08:38,L. Suárez,29.007.665 €,ANDEReibar,futmondo
+374,20/02/2021 - 06:34,José Ángel,5.100.909 €,futmondo,Iñigo Baquedano
+375,20/02/2021 - 06:34,Javi Galán,27.428.352 €,futmondo,Juanjo
+376,20/02/2021 - 06:34,Yuri,23.500.000 €,futmondo,Jorge Solitario
+377,20/02/2021 - 06:34,Víctor Rodríguez,1.110.000 €,futmondo,Juanjo
+378,19/02/2021 - 15:15,Juanmi,931.975 €,joseba espejo cervo,futmondo
+379,19/02/2021 - 15:15,Lluis Andreu,953.786 €,joseba espejo cervo,futmondo
+380,19/02/2021 - 15:15,Víctor Díaz,1.034.634 €,joseba espejo cervo,futmondo
+381,19/02/2021 - 07:09,Zaldúa,1.267.874 €,Juanjo,futmondo
+382,19/02/2021 - 07:08,Canales,70.149.760 €,Juanjo,futmondo
+383,19/02/2021 - 06:36,Juan Cruz,1.101.807 €,futmondo,ANDEReibar
+384,19/02/2021 - 06:36,Yeray,14.750.000 €,futmondo,MIKEL POZO
+385,18/02/2021 - 07:55,Fernando Reges,18.748.806 €,joseba espejo cervo,futmondo
+386,18/02/2021 - 07:07,Gabriel Paulista,10.552.000 €,Jon Arrieta,futmondo
+387,18/02/2021 - 07:07,Iñaki Williams,42.289.756 €,Jon Arrieta,futmondo
+388,18/02/2021 - 06:36,Correa,28.000.000 €,futmondo,joseba espejo cervo
+389,18/02/2021 - 06:36,Fidel,24.444.444 €,futmondo,Jon Arrieta
+390,18/02/2021 - 06:36,Mario Hermoso,28.100.000 €,futmondo,MIKEL POZO
+391,17/02/2021 - 22:33,Aleix Vidal,2.640.896 €,Jorge Solitario,futmondo
+392,17/02/2021 - 08:19,Mickaël Malsa,10.004.802 €,ANDEReibar,futmondo
+393,17/02/2021 - 06:59,Rubén García,42.528.448 €,MIKEL POZO,futmondo
+394,17/02/2021 - 06:36,Gonalons,1.100.009 €,futmondo,Iñigo Baquedano
+395,17/02/2021 - 06:36,Unai López,1.300.000 €,futmondo,Jon Arrieta
+396,16/02/2021 - 09:05,Jaume Costa,1.162.833 €,Tito Floren,futmondo
+397,16/02/2021 - 06:36,De Jong,60.000.000 €,futmondo,joseba espejo cervo
+398,15/02/2021 - 07:45,Rubén Yáñez,2.456.712 €,Jon Arrieta,futmondo
+399,15/02/2021 - 06:35,Remiro,8.777.777 €,futmondo,Jon Arrieta
+400,15/02/2021 - 06:35,Asensio,27.777.777 €,futmondo,Jon Arrieta
+401,15/02/2021 - 06:35,Guardiola,1.809.009 €,futmondo,Iñigo Baquedano
+402,14/02/2021 - 17:34,Gorosabel,22.004.873 €,Jorge Solitario,futmondo
+403,14/02/2021 - 09:12,Ontiveros,11.261.560 €,Jon Arrieta,futmondo
+404,14/02/2021 - 06:34,Borja Iglesias,7.777.777 €,futmondo,Jon Arrieta
+405,14/02/2021 - 06:34,Jordi Alba,48.000.000 €,futmondo,Tito Floren
+406,14/02/2021 - 06:34,Riqui Puig,1.250.000 €,futmondo,Jorge Solitario
+407,13/02/2021 - 07:40,Ximo Navarro,4.686.193 €,Jon Arrieta,futmondo
+408,13/02/2021 - 06:34,Canales,68.975.487 €,futmondo,Juanjo
+409,13/02/2021 - 06:34,Óliver Torres,2.425.179 €,futmondo,Iñigo Baquedano
+410,13/02/2021 - 06:34,Umtiti,2.333.333 €,futmondo,Jon Arrieta
+411,12/02/2021 - 10:22,Iza,6.911.901 €,Iñigo Baquedano,futmondo
+412,12/02/2021 - 10:06,Diego Carlos,26.310.655 €,Iñigo Baquedano,futmondo
+413,12/02/2021 - 06:36,Calleri,8.241.555 €,futmondo,Juanjo
+414,11/02/2021 - 21:54,Joaquín,4.158.631 €,Iñigo Baquedano,futmondo
+415,11/02/2021 - 11:55,Pedraza,17.496.047 €,Tito Floren,futmondo
+416,11/02/2021 - 07:13,Alcaraz,3.127.576 €,Juanjo,futmondo
+417,11/02/2021 - 06:52,Tachi,1.453.165 €,MIKEL POZO,futmondo
+418,11/02/2021 - 06:51,Edgar Méndez,2.546.426 €,MIKEL POZO,futmondo
+419,11/02/2021 - 06:36,Jaime Seoane,6.709.009 €,futmondo,Iñigo Baquedano
+420,11/02/2021 - 06:36,Jaume Costa,1.500.001 €,futmondo,Tito Floren
+421,11/02/2021 - 06:36,Yoshinori Muto,3.600.000 €,futmondo,MIKEL POZO
+422,11/02/2021 - 06:36,Sandro,3.544.997 €,futmondo,jose_00014
+423,11/02/2021 - 06:36,Manu Vallejo,3.650.000 €,futmondo,MIKEL POZO
+424,11/02/2021 - 00:46,Luismi,1.034.783 €,Iñigo Baquedano,futmondo
+425,11/02/2021 - 00:46,Arambarri,1.054.944 €,Iñigo Baquedano,futmondo
+426,10/02/2021 - 07:51,Bacca,1.006.848 €,ANDEReibar,futmondo
+427,10/02/2021 - 07:51,David Gil,983.757 €,ANDEReibar,futmondo
+428,10/02/2021 - 07:29,Koke,42.392.573 €,Juanjo,futmondo
+429,10/02/2021 - 07:16,Villalibre,1.017.438 €,Javier Urrestarazu García,futmondo
+430,10/02/2021 - 07:16,Yeray,13.475.612 €,Javier Urrestarazu García,futmondo
+431,10/02/2021 - 07:16,Weissman,4.862.941 €,Javier Urrestarazu García,futmondo
+432,10/02/2021 - 06:36,Unai Núñez,3.888.888 €,futmondo,Javier Urrestarazu García
+433,10/02/2021 - 06:36,L. Suárez,33.520.000 €,futmondo,ANDEReibar
+434,10/02/2021 - 06:36,Bruno González,2.600.001 €,futmondo,Tito Floren
+435,09/02/2021 - 07:21,Koke Vegas,1.019.003 €,Tito Floren,futmondo
+436,09/02/2021 - 06:36,Dani García,3.250.000 €,futmondo,MIKEL POZO
+437,09/02/2021 - 06:36,Mingueza,4.900.000 €,futmondo,MIKEL POZO
+438,09/02/2021 - 06:36,En-Nesyri,41.248.454 €,futmondo,Juanjo
+439,09/02/2021 - 06:36,Joselu,26.000.011 €,futmondo,Javier Urrestarazu García
+440,08/02/2021 - 23:49,Juan Cruz,1.206.056 €,Iñigo Baquedano,futmondo
+441,08/02/2021 - 20:47,"""Choco"" Lozano",8.530.142 €,Jorge Solitario,futmondo
+442,08/02/2021 - 10:30,Adrián,1.023.724 €,Jorge Solitario,futmondo
+443,08/02/2021 - 09:46,Coke,1.009.785 €,Jon Arrieta,futmondo
+444,08/02/2021 - 07:11,Marcos Llorente,70.847.581 €,MIKEL POZO,futmondo
+445,08/02/2021 - 06:35,Gorosabel,21.623.001 €,futmondo,Jorge Solitario
+446,08/02/2021 - 06:35,Vezo,2.650.000 €,futmondo,MIKEL POZO
+447,08/02/2021 - 06:35,Joel,3.750.000 €,futmondo,Jon Arrieta
+448,08/02/2021 - 06:35,Portu,57.500.000 €,futmondo,Tito Floren
+449,08/02/2021 - 06:35,Andrés Fernández,1.000.001 €,futmondo,Jorge Solitario
+450,07/02/2021 - 22:38,Boyé,6.500.000 €,Iñigo Baquedano,Javier Urrestarazu García
+451,07/02/2021 - 21:23,San Emeterio,1.009.922 €,Jorge Solitario,futmondo
+452,07/02/2021 - 21:23,Capa,11.084.797 €,Jorge Solitario,futmondo
+453,07/02/2021 - 09:22,Etxeita,1.160.379 €,Juanjo,futmondo
+454,07/02/2021 - 07:57,Jota,1.067.314 €,ANDEReibar,futmondo
+455,07/02/2021 - 06:35,Morales,57.580.000 €,futmondo,MIKEL POZO
+456,06/02/2021 - 06:34,Raúl García,25.309.009 €,futmondo,Iñigo Baquedano
+457,06/02/2021 - 06:34,Diego Carlos,29.209.009 €,futmondo,Iñigo Baquedano
+458,06/02/2021 - 06:34,Edgar Méndez,2.628.000 €,futmondo,MIKEL POZO
+459,06/02/2021 - 06:34,Vesga,2.100.000 €,futmondo,Tito Floren
+460,05/02/2021 - 17:44,Jesús Navas,45.480.348 €,Tito Floren,futmondo
+461,05/02/2021 - 17:42,João Félix,63.010.702 €,Tito Floren,futmondo
+462,05/02/2021 - 09:15,Jorge Molina,978.110 €,MIKEL POZO,futmondo
+463,05/02/2021 - 09:15,Umtiti,2.226.482 €,MIKEL POZO,futmondo
+464,05/02/2021 - 07:59,Gorosabel,21.007.011 €,Iñigo Baquedano,futmondo
+465,05/02/2021 - 07:37,Guido Rodríguez,15.110.826 €,Jon Arrieta,futmondo
+466,05/02/2021 - 06:43,Sergi Enrich,1.025.892 €,Juanjo,futmondo
+467,05/02/2021 - 06:42,Alfon,972.370 €,Juanjo,futmondo
+468,05/02/2021 - 06:37,Blanco,5.150.000 €,futmondo,ANDEReibar
+469,05/02/2021 - 06:37,Maffeo,5.000.485 €,futmondo,Juanjo
+470,04/02/2021 - 21:07,Villalibre,3.000.000 €,Iñigo Baquedano,Javier Urrestarazu García
+471,04/02/2021 - 21:02,Moyá,935.631 €,MIKEL POZO,futmondo
+472,04/02/2021 - 21:02,Funes Mori,1.026.606 €,Javier Urrestarazu García,futmondo
+473,04/02/2021 - 13:10,Sergi Gómez,1.782.612 €,Jorge Solitario,futmondo
+474,04/02/2021 - 10:55,Kroos,49.777.056 €,Jon Arrieta,futmondo
+475,04/02/2021 - 07:16,Carrasco,33.315.833 €,Javier Urrestarazu García,futmondo
+476,04/02/2021 - 06:50,Óscar Plano,11.233.552 €,Juanjo,futmondo
+477,04/02/2021 - 06:50,Niang,1.055.016 €,Juanjo,futmondo
+478,04/02/2021 - 06:36,Fernando Reges,25.000.000 €,futmondo,joseba espejo cervo
+479,04/02/2021 - 06:33,Franco Vázquez,1.048.440 €,Jon Arrieta,futmondo
+480,03/02/2021 - 16:07,Jorge De Frutos,25.000.000 €,joseba espejo cervo,Iñigo Baquedano
+481,03/02/2021 - 07:30,Sergio Álvarez,1.041.005 €,jose_00014,futmondo
+482,03/02/2021 - 07:28,Aidoo,1.069.374 €,Juanjo,futmondo
+483,03/02/2021 - 07:28,Mariano,1.024.994 €,Juanjo,futmondo
+484,03/02/2021 - 07:27,Fekir,47.162.675 €,Juanjo,futmondo
+485,03/02/2021 - 07:14,Sergio Gómez,1.068.605 €,Javier Urrestarazu García,futmondo
+486,03/02/2021 - 06:36,Zubimendi,3.200.000 €,futmondo,Tito Floren
+487,03/02/2021 - 06:36,Pau Torres,43.123.123 €,futmondo,Javier Urrestarazu García
+488,03/02/2021 - 06:36,Aleix Vidal,1.102.000 €,futmondo,Jorge Solitario
+489,03/02/2021 - 06:36,Koke,41.578.754 €,futmondo,Juanjo
+490,03/02/2021 - 06:36,"""Choco"" Lozano",8.933.000 €,futmondo,Jorge Solitario
+491,02/02/2021 - 14:59,Damián Suárez,6.458.672 €,Juanjo,futmondo
+492,02/02/2021 - 14:59,Cheryshev,2.011.582 €,Juanjo,futmondo
+493,02/02/2021 - 09:05,Braithwaite,5.145.438 €,Tito Floren,futmondo
+494,02/02/2021 - 07:56,Remiro,10.220.975 €,Jorge Solitario,futmondo
+495,02/02/2021 - 07:07,Raúl Guti,4.174.522 €,Jon Arrieta,futmondo
+496,02/02/2021 - 06:47,Barrenetxea,2.062.084 €,MIKEL POZO,futmondo
+497,02/02/2021 - 06:46,Doukouré,1.053.854 €,MIKEL POZO,futmondo
+498,02/02/2021 - 06:46,Soares,1.782.216 €,MIKEL POZO,futmondo
+499,02/02/2021 - 06:46,Mathías Olivera,6.804.982 €,MIKEL POZO,futmondo
+500,02/02/2021 - 06:46,Paco Alcácer,45.950.567 €,MIKEL POZO,futmondo
+501,02/02/2021 - 06:35,Marcos Llorente,67.850.000 €,futmondo,MIKEL POZO
+502,02/02/2021 - 06:35,Ontiveros,14.777.777 €,futmondo,Jon Arrieta
+503,02/02/2021 - 06:35,Josan,21.500.000 €,futmondo,Jorge Solitario
+504,01/02/2021 - 07:19,Acuña,15.948.181 €,Iñigo Baquedano,futmondo
+505,01/02/2021 - 06:35,Tachi,1.100.000 €,futmondo,MIKEL POZO
+506,01/02/2021 - 06:35,Soldado,3.950.000 €,futmondo,ANDEReibar
+507,01/02/2021 - 06:35,Kounde,45.555.555 €,futmondo,Jon Arrieta
+508,01/02/2021 - 06:35,Álvaro Fernández,9.100.000 €,futmondo,Jorge Solitario
+509,31/01/2021 - 16:01,Battaglia,3.084.421 €,Juanjo,futmondo
+510,31/01/2021 - 15:36,Rakitic,13.106.750 €,jose_00014,futmondo
+511,31/01/2021 - 06:34,João Félix,66.000.000 €,futmondo,Tito Floren
+512,31/01/2021 - 06:34,Guedes,15.555.555 €,futmondo,Jon Arrieta
+513,31/01/2021 - 06:34,Dembélé,41.850.000 €,futmondo,jose_00014
+514,31/01/2021 - 06:34,Víctor Ruiz,2.317.000 €,futmondo,Jorge Solitario
+515,31/01/2021 - 00:28,Inui,12.940.735 €,Iñigo Baquedano,futmondo
+516,30/01/2021 - 09:31,Gonalons,1.051.984 €,jose_00014,futmondo
+517,30/01/2021 - 06:34,Óscar Plano,12.289.136 €,futmondo,Juanjo
+518,30/01/2021 - 06:34,Íñigo Martínez,15.709.009 €,futmondo,Iñigo Baquedano
+519,30/01/2021 - 06:34,Montoro,4.623.000 €,futmondo,jose_00014
+520,30/01/2021 - 06:34,Papu Gómez,56.000.000 €,futmondo,Tito Floren
+521,30/01/2021 - 06:34,Renato Tapia,24.878.454 €,futmondo,Juanjo
+522,29/01/2021 - 14:10,Maxi Gómez,31.913.496 €,MIKEL POZO,futmondo
+523,29/01/2021 - 06:36,Niang,1.000.000 €,futmondo,Juanjo
+524,29/01/2021 - 06:36,Roberto,1.000.002 €,futmondo,MIKEL POZO
+525,29/01/2021 - 06:36,Mariano,1.000.000 €,futmondo,Juanjo
+526,29/01/2021 - 06:36,Coke,1.000.010 €,futmondo,Jon Arrieta
+527,29/01/2021 - 06:36,Etxeita,1.000.000 €,futmondo,Juanjo
+528,29/01/2021 - 06:36,Aidoo,1.000.000 €,futmondo,Juanjo
+529,28/01/2021 - 15:35,Rui Silva,19.634.925 €,MIKEL POZO,futmondo
+530,28/01/2021 - 09:09,Aridane,11.958.842 €,Tito Floren,futmondo
+531,28/01/2021 - 07:52,Mikel Merino,46.885.272 €,Jon Arrieta,futmondo
+532,28/01/2021 - 06:35,Masip,4.350.000 €,futmondo,MIKEL POZO
+533,28/01/2021 - 06:35,Trincao,1.550.000 €,futmondo,MIKEL POZO
+534,28/01/2021 - 06:35,Solari,4.500.000 €,futmondo,Juanjo
+535,28/01/2021 - 06:35,Kroos,46.666.666 €,futmondo,Jon Arrieta
+536,28/01/2021 - 06:35,Iñaki Williams,42.222.222 €,futmondo,Jon Arrieta
+537,28/01/2021 - 06:35,Umtiti,3.500.000 €,futmondo,MIKEL POZO
+538,27/01/2021 - 09:10,Sanabria,4.532.208 €,Jorge Solitario,futmondo
+539,27/01/2021 - 07:44,M. Dembelé,18.787.136 €,Jon Arrieta,futmondo
+540,27/01/2021 - 07:20,Sergi Roberto,9.391.495 €,Iñigo Baquedano,futmondo
+541,27/01/2021 - 06:35,Tete Morente,6.222.222 €,futmondo,Jorge Solitario
+542,27/01/2021 - 06:35,Jesús Navas,47.000.000 €,futmondo,Tito Floren
+543,27/01/2021 - 06:35,Unai Vencedor,6.409.009 €,futmondo,Iñigo Baquedano
+544,27/01/2021 - 06:35,Alcaraz,5.255.878 €,futmondo,Juanjo
+545,27/01/2021 - 06:35,Cheryshev,2.600.000 €,futmondo,Juanjo
+546,26/01/2021 - 14:06,David García,14.000.000 €,MIKEL POZO,Iñigo Baquedano
+547,26/01/2021 - 08:35,Salvi,12.791.438 €,jose_00014,futmondo
+548,26/01/2021 - 08:33,Mosquera,14.677.332 €,Tito Floren,futmondo
+549,26/01/2021 - 07:47,Wass,17.495.501 €,Jon Arrieta,futmondo
+550,26/01/2021 - 06:51,Rodrygo,941.623 €,Javier Urrestarazu García,futmondo
+551,26/01/2021 - 06:50,Rubén Martínez,1.066.689 €,Javier Urrestarazu García,futmondo
+552,26/01/2021 - 06:50,Kodro,1.033.182 €,Javier Urrestarazu García,futmondo
+553,26/01/2021 - 06:49,Lenglet,14.102.728 €,Javier Urrestarazu García,futmondo
+554,26/01/2021 - 06:44,Akapo,1.065.239 €,Juanjo,futmondo
+555,26/01/2021 - 06:43,Iván Villar,1.055.573 €,Juanjo,futmondo
+556,26/01/2021 - 06:43,Iborra,7.584.995 €,Juanjo,futmondo
+557,26/01/2021 - 06:35,Kubo,26.000.999 €,futmondo,jose_00014
+558,26/01/2021 - 06:35,Aleix García,1.542.350 €,futmondo,ANDEReibar
+559,26/01/2021 - 06:35,Moi Gómez,31.525.000 €,futmondo,jose_00014
+560,26/01/2021 - 06:35,Cala,17.600.006 €,futmondo,Jorge Solitario
+561,26/01/2021 - 06:35,Carrasco,37.231.234 €,futmondo,Javier Urrestarazu García
+562,26/01/2021 - 06:35,Luis Rioja,13.595.555 €,futmondo,ANDEReibar
+563,25/01/2021 - 23:27,Guardado,1.059.494 €,Juanjo,futmondo
+564,25/01/2021 - 20:35,Berenguer,9.290.703 €,MIKEL POZO,futmondo
+565,25/01/2021 - 09:15,Malbasic,1.038.618 €,Tito Floren,futmondo
+566,25/01/2021 - 09:15,Enric Gallego,1.044.859 €,Tito Floren,futmondo
+567,25/01/2021 - 07:45,Marcone,4.805.027 €,Jon Arrieta,futmondo
+568,25/01/2021 - 07:07,Felipe,12.038.719 €,Iñigo Baquedano,futmondo
+569,25/01/2021 - 06:35,Neva,14.209.009 €,futmondo,Iñigo Baquedano
+570,25/01/2021 - 06:35,Paco Alcácer,46.350.000 €,futmondo,MIKEL POZO
+571,25/01/2021 - 06:35,Rubén García,45.300.000 €,futmondo,MIKEL POZO
+572,25/01/2021 - 06:35,Battaglia,3.800.001 €,futmondo,Juanjo
+573,25/01/2021 - 06:35,Fekir,45.285.886 €,futmondo,Juanjo
+574,24/01/2021 - 14:17,Carrillo,1.500.000 €,Jon Arrieta,Juanjo
+575,24/01/2021 - 09:48,Iñaki Peña,1.026.491 €,Jorge Solitario,futmondo
+576,24/01/2021 - 09:38,Nano,1.042.403 €,Jorge Solitario,futmondo
+577,24/01/2021 - 09:28,Odegaard,3.021.591 €,Juanjo,futmondo
+578,24/01/2021 - 09:12,Guidetti,1.068.245 €,jose_00014,futmondo
+579,24/01/2021 - 08:49,Bautista,1.069.898 €,Jon Arrieta,futmondo
+580,24/01/2021 - 08:24,Burgos,9.285.712 €,ANDEReibar,futmondo
+581,24/01/2021 - 06:34,Inui,19.409.009 €,futmondo,Iñigo Baquedano
+582,24/01/2021 - 06:34,Sergi Enrich,1.643.502 €,futmondo,Juanjo
+583,24/01/2021 - 06:34,Juan Cruz,3.109.009 €,futmondo,Iñigo Baquedano
+584,24/01/2021 - 06:34,Isak,33.333.334 €,futmondo,Jorge Solitario
+585,24/01/2021 - 06:34,Giménez,26.543.210 €,futmondo,Javier Urrestarazu García
+586,24/01/2021 - 06:34,Zaldúa,1.456.965 €,futmondo,Juanjo
+587,24/01/2021 - 06:34,Gorosabel,24.309.009 €,futmondo,Iñigo Baquedano
+588,24/01/2021 - 06:34,Maxi Gómez,32.550.000 €,futmondo,MIKEL POZO
+589,23/01/2021 - 23:44,David Soria,8.342.859 €,ANDEReibar,futmondo
+590,23/01/2021 - 22:48,Pacheco,20.800.002 €,Jon Arrieta,ANDEReibar
+591,23/01/2021 - 21:48,Chukwueze,8.631.695 €,Iñigo Baquedano,futmondo
+592,23/01/2021 - 21:31,Pervis Estupiñan,12.435.072 €,Jorge Solitario,futmondo
+593,23/01/2021 - 16:14,Kang-in Lee,3.008.689 €,Javier Urrestarazu García,futmondo
+594,23/01/2021 - 13:29,Guardiola,4.001.794 €,jose_00014,futmondo
+595,23/01/2021 - 13:29,Diego Rodríguez,1.059.893 €,jose_00014,futmondo
+596,23/01/2021 - 12:44,Óscar Rodríguez,1.016.865 €,Jorge Solitario,futmondo
+597,23/01/2021 - 11:53,Willian José,7.217.371 €,Juanjo,futmondo
+598,23/01/2021 - 06:34,Carlos Fernández,10.100.010 €,futmondo,Jon Arrieta
+599,23/01/2021 - 06:34,Guido Rodríguez,20.100.100 €,futmondo,Jon Arrieta
+600,23/01/2021 - 06:34,Mickaël Malsa,12.268.000 €,futmondo,ANDEReibar
+601,23/01/2021 - 06:34,Carlos Fernández,10.100.010 €,futmondo,Jon Arrieta
+602,23/01/2021 - 06:34,Guido Rodríguez,20.100.100 €,futmondo,Jon Arrieta
+603,23/01/2021 - 06:34,Mikel Merino,47.777.777 €,futmondo,Jon Arrieta
+604,23/01/2021 - 06:34,Saponjic,2.800.000 €,futmondo,Jorge Solitario
+605,23/01/2021 - 06:34,Mikel Merino,47.777.777 €,futmondo,Jon Arrieta
