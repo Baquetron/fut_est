@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 conf/user_data.json
+conf/user_data_inb.json
