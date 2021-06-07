@@ -53,7 +53,7 @@ def loggin_page():
                           'Transfer amount': amounts, 'Seller': sellers,
                           'Buyer': buyers}, index=range(1, len(players) + 1))
     # Saving the data in .csv format
-    table.to_csv('../data/transfer_history.csv, index=False')
+    table.to_csv('../data/transfer_history.csv', index=False)
 
 def execute():
     loggin_page()
