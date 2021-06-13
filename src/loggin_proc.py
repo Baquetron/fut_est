@@ -127,6 +127,8 @@ def player_price_scrapping():
                 WebDriverWait(driver, 20).until(EC.element_to_be_clickable(
                     (By.XPATH, '//*[@class="icon-arrow-right"]'))).click()
             except:
+                # When no more players are available for being scrapped the program
+                # goes out of the loop.
                 print("Exception has been caught-> No more players are available")
                 break
 
@@ -155,12 +157,10 @@ def player_price_scrapping():
             driver.get(url_data)
             WebDriverWait(driver, 20).until(EC.visibility_of_all_elements_located(
                 (By.XPATH, '//*[@id="playerSummaryPricesChart"]')))
-            x_Cord = driver.execute_script("return Highcharts.charts[0].series[0].xData")
             y_Cord = driver.execute_script("return Highcharts.charts[0].series[0].yData")
             # Here we obtain the number of days from the first price value until the one obtained
             # the 25/05/2021
             delta_dates = timedelta(len(y_Cord)) - date_difference
-            print(delta_dates)
             # Generating the list containing the points associated to the prices
             date_points = [str(last_date - timedelta(days=i)) for i in range(delta_dates.days - 1, -1, -1)]
             players_price_date.append("; ".join(date_points))
@@ -173,49 +173,19 @@ def player_price_scrapping():
             WebDriverWait(driver, 20).until(EC.element_to_be_clickable(
                 (By.XPATH, '//*[@id="sortPlayers"]/li[1]'))).click()
             time.sleep(0.5)
+            # This will allow us to go to the next player page, note that, when going
+            # back to the default page it always display the first page of the list. This
+            # loop is needed to retrieve the information of the players included in the following
+            # pages.
             for i in range(pages):
                 driver.execute_script("arguments[0].scrollIntoView(true);",
                                       driver.find_element_by_xpath('//*[@class="paginationContainer"]/ul/li[4]'))
                 WebDriverWait(driver, 20).until(EC.element_to_be_clickable(
                     (By.XPATH, '//*[@class="icon-arrow-right"]'))).click()
         pages += 1
-    print("Players have been scrapped")
-    time.sleep(10)
 
-    # user_login = WebDriverWait
-    # elem_charts = WebDriverWait(driver, 15).until(EC.visibility_of_element_located(
-    #     By.XPATH, '//*[@id="highcharts-hr8xomy-23"]'))
-    # charts = driver.execute_script("return Highcharts.charts[1].series[1].yData")
-    # print(type(charts))
-    # print(charts)
-
-    # check history price is available
-    # elem_price_history = WebDriverWait(driver, 20).until(EC.visibility_of_element_located(
-    #     (By.XPATH, '//*[@id="highcharts-20"]')))
-    # print(elem_price_history)
-    #
-    # player_price_history = driver.find_elements_by_css_selector("#highcharts-20 > svg > g.highcharts-series-group > g.highcharts-series")
-    # graphs = []
-    # for elem in player_price_history:
-    #     cord_x = []
-    #     cord_y = []
-    #     data = elem.find_element_by_tag_name('path').get_attribute('d')
-    #     print(data)
-    #     values = data[2:len(data) - 1].split(' L ')
-    #     for val in values:
-    #         coordinates = val.split(" ")
-    #         cord_x.append(float(coordinates[0]))
-    #         cord_y.append(float(coordinates[1]))
-    #     graphs.append([cord_x, cord_y])
-    # print(len(graphs))
-    # print(len(graphs[0]))
-    # i = 0
-    # for graph in graphs:
-    #     i += 1
-    #     table_to_create = pd.DataFrame({'x Coordinates': graph[0], 'y Coordinates': graph[1]}
-    #                                    , index=range(1, len(graph[0]) + 1))
-    #     # Saving the data in .csv format
-    #     table_to_create.to_csv('Graph_{}.csv'.format(i), index=False)
+    # TODO. Create the csv file for including the players name. Create de DB to
+    # include the players price.
 
 
 if __name__ == "__main__":
