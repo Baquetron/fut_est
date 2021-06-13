@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 conf/user_data.json
 conf/user_data_inb.json
+data/payer_score_page_files

@@ -1,0 +1,25 @@
+input data to svm 1st stage:
+member_id
+buyer_id
+actual_price
+score_avg_at_that_date
+
+2nd stage:
+score_match_0
+score_match_1
+score_match_2
+score_match_3
+score_match_4
+
+3r stage:
+price_1_day_ago
+price_2_day_ago
+price_3_day_ago
+price_4_day_ago
+price_5_day_ago
+
+4th stage:
+member_general_pos
+member_pos_1_round_ago
+member_pos_2_round_ago
+member_pos_3_round_ago

@@ -10,11 +10,32 @@ import pandas as pd
 _JSON_FILE = "../conf/user_data_inb.json"
 _FUTMONDO_ADDRESS = "https://www.futmondo.com/"
 _LOCAL_TRANSFER_LIST = "file:///Users/inigo/Sandbox/fut_est/data/futmondo_transfer_list_full.html"
+_PLAYER_SCORES_PAGE = "file:///Users/inigo/Sandbox/fut_est/data/payer_score_page.html"
 
 def parse_json(filepath):
     with open(filepath, "r") as f:
         dictionary = json.load(f)
         return dictionary
+
+def get_player_scores(filepath):
+    options = webdriver.ChromeOptions()
+    options.add_argument("start-maximized")
+    options.add_argument('disable-infobars')
+    try:
+        driver = webdriver.Chrome("../tools/bin/gc84/chromedriver.exe", options=options)
+    except:
+        driver = webdriver.Chrome("../tools/bin/chromedriver", options=options)
+
+    driver.get(_PLAYER_SCORES_PAGE)
+    elem_player_scores = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="matches"]')))
+    elems_scores = driver.find_elements_by_css_selector('#matches > div > div.game')
+    scores_l = len(elems_scores)
+    for i, elem in enumerate(elems_scores):
+        show_more_button = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="matches"]/div[' + str(i+1) + ']/div[2]/div[2]/strong')))
+        driver.execute_script("arguments[0].scrollIntoView(true);",show_more_button)
+        val =elem.find_element_by_xpath('//*[@id="matches"]/div[' + str(i+1) + ']/div[2]/div[2]/strong')
+        print(val.text)
+
 
 def loggin_page():
     d_userdata = parse_json(_JSON_FILE)
@@ -56,7 +77,7 @@ def loggin_page():
     table.to_csv('../data/transfer_history.csv', index=False)
 
 def execute():
-    loggin_page()
+    get_player_scores(_PLAYER_SCORES_PAGE)
 
 if __name__ == "__main__":
-    loggin_page()
+    execute()
