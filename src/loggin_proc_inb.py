@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from datetime import datetime
 import time
 import json
 import pandas as pd
@@ -26,15 +27,29 @@ def get_player_scores(filepath):
     except:
         driver = webdriver.Chrome("../tools/bin/chromedriver", options=options)
 
+    player_table = [["player", "date", "score"]]
+    
     driver.get(_PLAYER_SCORES_PAGE)
+    # get player name
+    player_name_header = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="appHeader"]')))
+    player_name = driver.find_element_by_css_selector('#appHeader > li.sectionMenu > div').text
+    # get player scores
     elem_player_scores = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="matches"]')))
     elems_scores = driver.find_elements_by_css_selector('#matches > div > div.game')
     scores_l = len(elems_scores)
     for i, elem in enumerate(elems_scores):
         show_more_button = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="matches"]/div[' + str(i+1) + ']/div[2]/div[2]/strong')))
         driver.execute_script("arguments[0].scrollIntoView(true);",show_more_button)
-        val =elem.find_element_by_xpath('//*[@id="matches"]/div[' + str(i+1) + ']/div[2]/div[2]/strong')
-        print(val.text)
+        date = elem.find_element_by_xpath('//*[@id="matches"]/div[' + str(i+1) + ']/div[2]/time/span')
+        val = elem.find_element_by_xpath('//*[@id="matches"]/div[' + str(i+1) + ']/div[2]/div[2]/strong')
+        player_table.append([player_name, date.text, val.text])
+    # put scores in order
+    player_df = pd.DataFrame(player_table[1:], index=None, columns=player_table[0])
+    player_df['date'] = player_df['date'].apply(lambda x: datetime.strptime(x, '%d/%m/%y').strftime('%y-%m-%d'))
+    player_df = player_df.sort_values(['date'], ascending=True).reset_index(drop=True)
+    print(player_df)
+    
+    player_df.to_csv('../data/player_score_table.csv', index=False)
 
 
 def loggin_page():
