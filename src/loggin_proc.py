@@ -6,13 +6,20 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
 from datetime import date, timedelta
+import json
 
 _FUTMONDO_ADDRESS = "https://www.futmondo.com/"
-
+_JSON_FILE = "../conf/user_data_inb.json"
 
 def execute():
     # tranfer_list_scrapping()
     player_price_scrapping()
+
+
+def parse_json(filepath):
+    with open(filepath, "r") as f:
+        dictionary = json.load(f)
+        return dictionary
 
 
 def tranfer_list_scrapping():
@@ -77,9 +84,12 @@ def player_price_scrapping():
     # Introducing login information
     user_login = WebDriverWait(driver, 20).until(EC.visibility_of_element_located((
         By.XPATH, '//*[@id="login"]/div/section/div/div/form/div[1]/input')))
-    user_login.send_keys("javiersanmartin1995@gmail.com")
+    # Get logging info
+    d_userdata = parse_json(_JSON_FILE)
+    print(type(d_userdata))
+    user_login.send_keys(d_userdata["User"])
     password_login = driver.find_element_by_xpath('//*[@id="login"]/div/section/div/div/form/div[2]/input')
-    password_login.send_keys("Sanmartin17")
+    password_login.send_keys(d_userdata["Password"])
 
     # Clicking in the access button
     WebDriverWait(driver, 20).until(EC.element_to_be_clickable(
