@@ -184,7 +184,7 @@ def player_price_scrapping():
                     (By.XPATH, '//*[@class="icon-arrow-right"]'))).click()
         pages += 1
 
-    # TODO. Create the csv file for including the players name. Create de DB to
+    # TODO. Create the csv file for including the players name. Create the DB to
     # include the players price.
 
 
