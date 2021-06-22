@@ -1,0 +1,11 @@
+Multiclass classification
+- Evaluation using cross-validation scores -> cross_val_score(sgd_clf, X_train, y_train, cv=3, scoring="accuracy")
+- Simply scaling inputs we can improve the accuracy lots.
+
+1. Scikit-Learn - SGDClassifier (very basic):
+    One vs all: It trains a model for each class and outputs the model with the most probability.
+    We can get also get the score of each class model
+    page 94
+
+2. Scikit-Learn - RandomForestClassifier (very basic):
+    page 95
